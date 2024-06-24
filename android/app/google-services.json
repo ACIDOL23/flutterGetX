@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "530803562588",
+    "project_id": "flutterdemo-53872",
+    "storage_bucket": "flutterdemo-53872.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530803562588:android:acc77730d3c3922dc06e99",
+        "android_client_info": {
+          "package_name": "com.example.shopx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530803562588-30bl0ja9s1ui08lmearj4vja5tgmsufq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopx",
+            "certificate_hash": "f5c3bfb96585d93dd30d5aff550a6f01e2f705ce"
+          }
+        },
+        {
+          "client_id": "530803562588-idhbsfesjqte93joqrgo589ckqqtnmjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIjbpGA1lf4SSarVykIcE0PMLhZkDVnII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530803562588-idhbsfesjqte93joqrgo589ckqqtnmjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
